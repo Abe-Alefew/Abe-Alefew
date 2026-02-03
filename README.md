@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abraham A. Alefew (Cosmocoder)</h1>
 
 <h3 align="center">
-  Fullstack Developer (Backend Heavy) | AI Enthusiast | Competitive Programmer
+  Fullstack Developer | Competitive Programmer
 </h3>
 
-<p align="center">
- <i>"I build the engines; someone else paints the car."</i> 🚗💨
-</p>
 
 <p align="center">
   I specialize in the invisible parts of software — how data flows, how components interact, and how to architect systems that don't crash when you look at them funny.
